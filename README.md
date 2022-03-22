@@ -1,14 +1,14 @@
 # Parallel-Computing
-### 并行计算实验
-1. 矩阵相乘
- - MPI实现
- - OpenMP实现
-2. 蒙特卡罗求值
- - MPI实现
- - OpenMP实现
-3. 快速排序
- - MPI实现
- - OpenMP实现
-4. wordcount
- - MPI实现
- - OpenMP实现
+### Parallel Computing Experiment
+1. MatrixMultiply
+ - Implementation based on MPI
+ - Implementation based on OpenMP
+2. MonteCarlo
+ - Implementation based on MPI
+ - Implementation based on OpenMP
+3. Quicksort
+ - Implementation based on MPI
+ - Implementation based on OpenMP
+4. WordCount
+ - Implementation based on MPI
+ - Implementation based on OpenMP
