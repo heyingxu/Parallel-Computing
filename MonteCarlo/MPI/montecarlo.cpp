@@ -21,8 +21,6 @@ int main( int argc ,char** argv)
     {
 	x = (double)rand() / RAND_MAX;
         y = (double)rand() / RAND_MAX;
-        //x = 2*x -1;
-        //y = 2*y -1;
         distance = pow(x*x + y*y,0.5) ;
 	if(distance <= 1)
 	    num_in_cycle += 1;
