@@ -3,3 +3,12 @@
 1. 矩阵相乘
    - MPI实现
    - OpenMP实现
+2. 蒙特卡罗求值
+ - MPI实现
+ - OpenMP实现
+3. 快速排序
+ - MPI实现
+ - OpenMP实现
+4. wordcount
+ - MPI实现
+ - OpenMP实现
